@@ -1,4 +1,4 @@
-# P26-New
+# MY maggi recepie
 
 So the recipe is Maggi.
 We will learn how to cook maggi,
